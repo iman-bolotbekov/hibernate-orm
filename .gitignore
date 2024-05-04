@@ -1,0 +1,42 @@
+# Maven specific
+target/
+!.mvn/wrapper/maven-wrapper.jar
+
+# IDE specific
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Compiled bytecode
+*.class
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# Dependency directories
+dependency/
+
+# Hibernate specific
+*.log
+*.sql
+*.properties
+
+# MySQL specific
+*.sql
+
+# Eclipse specific
+.classpath
+.project
+.settings/
+
+# IntelliJ specific
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# macOS specific
+.DS_Store
